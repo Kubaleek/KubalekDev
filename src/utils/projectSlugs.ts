@@ -44,13 +44,7 @@ export const project: ProjectProps[] = [
                 },
                 {
                     type: "tools",
-                    stacks: [
-                        {
-                            id: 1,
-                            name: "docker",
-                            svg: DOCKER_ICON,
-                        },
-                    ],
+                    stacks: [],
                 },
             ],
             performanceText: ["Moje portfolio to nowoczesna strona z porządnym SEO, szybkim ładowaniem i pełną responsywnością"],
