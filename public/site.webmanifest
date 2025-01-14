@@ -1,0 +1,8 @@
+{
+    "name": "KubalekDev",
+    "short_name": "KubalekDev",
+    "description": "KubalekDev to nowoczesne portfolio prezentujące moje umiejętności jako Frontend Developera.",
+    "theme_color": "#b3b2b2",
+    "background_color": "#121212",
+    "display": "standalone"
+}
