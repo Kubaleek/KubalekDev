@@ -1,5 +1,4 @@
 ## Przegląd Projektu
-<img src="./portfolio/thumbail-github.png" alt="" />
 
 ## Technologia
 
