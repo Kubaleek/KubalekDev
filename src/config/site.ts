@@ -1,7 +1,7 @@
 export const siteConfigs: Site = {
     name: 'KubalekDev',
     description: 'KubalekDev to nowoczesne portfolio prezentujące moje umiejętności jako Frontend Developera. Zbudowane z użyciem Next.js, Tailwind CSS, Shadcn/ui i TypeScript, projekt łączy estetykę, wydajność i responsywność, zapewniając wyjątkowe doświadczenia użytkownika.',
-    url: 'http://localhost:3000/',
+    url: 'https://kubalekdev.vercel.app/',
     keywords: [
         "Portfolio", "Programista", "Strony Internetowe", "Aplikacje Webowe",
         "Aplikacje Mobilne", "Aplikacje Desktopowe", "Nowoczesne Strony Internetowe",
@@ -21,7 +21,7 @@ export const siteConfigs: Site = {
         type: 'website',
         image: '/portfolio/kubalekdev.png',
         locale: 'pl_PL',
-        url: 'http://localhost:3000/',
+        url: 'https://kubalekdev.vercel.app/',
         title: 'KubalekDev',
         description: 'KubalekDev to nowoczesne portfolio prezentujące moje umiejętności jako Frontend Developera.',
         siteName: 'KubalekDev',

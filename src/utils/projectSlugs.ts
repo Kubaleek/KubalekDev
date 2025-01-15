@@ -12,7 +12,7 @@ export const project: ProjectProps[] = [
         description: 'KubalekDev to nowoczesne portfolio prezentujące moje umiejętności jako Frontend Developera. Zbudowane z użyciem Next.js, Tailwind CSS, Shadcn/ui i TypeScript, projekt łączy estetykę, wydajność i responsywność, zapewniając wyjątkowe doświadczenia użytkownika.',
         stacks: ['Next.js', 'Tailwind', 'Shadcn/ui', 'TypeScript'],
         githubLink: "https://github.com/Kubaleek/KubalekDev",
-        demolink: "#",
+        demolink: "https://kubalekdev.vercel.app/",
         projectDetails: {
             desc: "KubalekDev to nowoczesne portfolio",
             intro: ["KubalekDev to współczesne portfolio stworzone z myślą o prezentacji projektów oraz umiejętności jako Frontend Developera. Projekt został zbudowany w oparciu o Next.js, Tailwind CSS, Shadcn/ui i TypeScript, co gwarantuje nowoczesność, wysoką wydajność oraz pełną responsywność na różnych urządzeniach.", "Portfolio nie tylko prezentuje przykłady mojej pracy, ale także skupia się na dostarczeniu użytkownikom wyjątkowego doświadczenia dzięki starannie zaprojektowanym interfejsom oraz płynnym animacjom. Każdy element strony, od interaktywnej nawigacji po szczegółowe opisy projektów, został zaprojektowany z myślą o estetyce i funkcjonalności."],
