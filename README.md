@@ -1,9 +1,9 @@
 ![Baner KubalekDev](./public/portfolio/thumbail-github.png)
 
 ## Spis Projektu
-- [Przegląd Projektu](#PrzeglądProjektu)
+- [Projekt](#-projekt)
 
-## 🚀 Przegląd Projektu 
+## 🚀 Projekt 
 
 <p>
   KubalekDev to nowoczesne portfolio prezentujące moje umiejętności jako Frontend Developera. Zbudowane z użyciem Next.js, Tailwind CSS, Shadcn/ui i TypeScript, projekt łączy estetykę, wydajność i responsywność, zapewniając wyjątkowe doświadczenia użytkownika.
