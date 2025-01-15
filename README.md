@@ -1,4 +1,4 @@
-<img src="./public/portfolio/thumbail-github.png" alt="Baner KubalekDev"   />
+![Baner KubalekDev](./public/portfolio/thumbail-github.png)
 
 ## Przegląd Projektu 🎨
 
