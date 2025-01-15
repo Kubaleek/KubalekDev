@@ -16,6 +16,13 @@
 
 ## Technologia
 
+| Kategoria | Technologie                                 |
+| --------- | ------------------------------------------- |
+| Frontend  |  [TypeScript](https://www.typescriptlang.org/),  [Tailwind](https://tailwindcss.com/),   [Next.js](https://nextjs.org/) |
+| Backend   | Brak                                        |
+| Inne      | Brak                                        |
+
+
 ## Wydajność
 
 ![Wydajność KubalekDev](./public/portfolio/seo.png)
