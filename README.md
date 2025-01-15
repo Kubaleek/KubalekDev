@@ -2,11 +2,11 @@
 
 ## Spis Projektu
 - [Projekt](#-projekt)
-- [Technologia](#-technologia)
-- [Wydajność](#-wydajność)
-- [Instalacja](#-instalacja)
-- [Licencja](#-licencja)
-- [Na Żywo](#-żywo)
+- [Technologia](#technologia)
+- [Wydajność](#wydajność)
+- [Instalacja](#instalacja)
+- [Licencja](#licencja)
+- [Na Żywo](#na-żywo)
 
 ## 🚀 Projekt 
 
