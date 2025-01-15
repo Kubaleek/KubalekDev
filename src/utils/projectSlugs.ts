@@ -1,4 +1,3 @@
-import DOCKER_ICON from "@/components/icons/stacks/docker";
 import NEXTJS_ICON from "@/components/icons/stacks/nextjs";
 import TAILWIND_ICON from "@/components/icons/stacks/tailwind";
 import TS_ICON from "@/components/icons/stacks/Typescript";
