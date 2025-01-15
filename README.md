@@ -5,7 +5,6 @@
 - [Technologia](#technologia)
 - [Wydajność](#wydajność)
 - [Instalacja](#instalacja)
-- [Licencja](#licencja)
 - [Na Żywo](#na-żywo)
 
 ## 🚀 Projekt 
