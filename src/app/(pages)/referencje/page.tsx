@@ -53,7 +53,7 @@ export default function ReferencePage() {
                             </BoxReveal>
                             <BoxReveal boxColor={"#555"} duration={0.5}>
                                 <p className="text-pretty leading-relaxed text-left text-sm lg:text-base  text-[#424242] dark:text-[#b3b2b2]">
-                                Nie mam jeszcze referencji, ale wierzę, że przyszłe projekty i zadowoleni klienci będą najlepszym dowodem na moje zaangażowanie i profesjonalizm.
+                                Nie mam jeszcze referencji, ale wierzę, że przyszłe projekty i zadowoleni klienci będą najlepszym dowodem na moje zaangażowanie.
                                 </p>                            
                             </BoxReveal>
                             <Separator className="bg-[#121212]/25 dark:bg-zinc-200/25 my-4" />
