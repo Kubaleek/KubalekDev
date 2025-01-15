@@ -45,7 +45,7 @@ export default function LandingHero() {
             <div className="flex flex-col gap-6 overflow-hidden">
               <BoxReveal boxColor={"#555"} duration={0.5}>
                 <p className="text-pretty leading-relaxed text-sm text-left sm:text-base text-[#424242] dark:text-[#b3b2b2]">
-                  ✌️ Cześć Jestem programistą z pasją do odkrywania nowych możliwości w różnych językach programowania oraz tworzenia ciekawych projektów za pomocą kodu.
+                  ✌️ Cześć Jestem początkującym programistą z pasją do odkrywania nowych możliwości w różnych językach programowania oraz tworzenia ciekawych projektów za pomocą kodu.
                 </p>
               </BoxReveal>
               <BoxReveal boxColor={"#555"} duration={0.5}>
