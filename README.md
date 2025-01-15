@@ -10,6 +10,9 @@
 
 ## Wydajność
 
+![Wydajność KubalekDev](./public/portfolio/seo.png)
+
+
 ## Instalacja
 
 ## Licencja
