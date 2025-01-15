@@ -2,6 +2,11 @@
 
 ## Spis Projektu
 - [Projekt](#-projekt)
+- [Technologia](#-technologia)
+- [Wydajność](#-wydajność)
+- [Instalacja](#-instalacja)
+- [Licencja](#-licencja)
+- [Na Żywo](#-żywo)
 
 ## 🚀 Projekt 
 
@@ -14,7 +19,6 @@
 ## Wydajność
 
 ![Wydajność KubalekDev](./public/portfolio/seo.png)
-
 
 ## Instalacja
 
