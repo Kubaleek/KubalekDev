@@ -1,3 +1,5 @@
+<img src="./public/images/thumbail-github.png" alt="Baner KubalekDev"   />
+
 ## Przegląd Projektu 🎨
 
 <p>
