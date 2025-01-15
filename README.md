@@ -29,6 +29,4 @@
 
 ## Instalacja
 
-## Licencja
-
 ## Na Żywo
