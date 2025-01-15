@@ -73,8 +73,8 @@ export default function Navbar() {
                         <Link href={"/"} className="flex items-center gap-4">
                             {NavbarLogo}
                             <div className="h-6 w-0.5 bg-[#121212]/50 rotate-12 dark:bg-white/50" />
-                            <h2 className="font-bold uppercase text-sm sm:text-xl text-pretty leading-relaxed text-[#121212] dark:text-zinc-200">
-                                Kubalek.<span className="capitalize text-xs dark:text-white/75">Dev</span>
+                            <h2 className="font-bold sm:uppercase text-sm sm:text-xl text-pretty leading-relaxed text-[#121212] dark:text-zinc-200">
+                                Kubalek.<span className="text-xs dark:text-white/75">Dev</span>
                             </h2>
                         </Link>
                         <div className="items-center gap-4 md:flex hidden">
